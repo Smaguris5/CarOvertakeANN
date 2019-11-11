@@ -1,0 +1,11 @@
+\\peterborough.ac.uk\mfi\dfsACUserdata2\StudentH\UCP\Ramonas_P110096764\Desktop\AIAssignment\AIAssignmentANN\AIAssignmentANN\bin\Debug\netcoreapp2.1\AIAssignmentANN.deps.json
+\\peterborough.ac.uk\mfi\dfsACUserdata2\StudentH\UCP\Ramonas_P110096764\Desktop\AIAssignment\AIAssignmentANN\AIAssignmentANN\bin\Debug\netcoreapp2.1\AIAssignmentANN.runtimeconfig.json
+\\peterborough.ac.uk\mfi\dfsACUserdata2\StudentH\UCP\Ramonas_P110096764\Desktop\AIAssignment\AIAssignmentANN\AIAssignmentANN\bin\Debug\netcoreapp2.1\AIAssignmentANN.runtimeconfig.dev.json
+\\peterborough.ac.uk\mfi\dfsACUserdata2\StudentH\UCP\Ramonas_P110096764\Desktop\AIAssignment\AIAssignmentANN\AIAssignmentANN\bin\Debug\netcoreapp2.1\AIAssignmentANN.dll
+\\peterborough.ac.uk\mfi\dfsACUserdata2\StudentH\UCP\Ramonas_P110096764\Desktop\AIAssignment\AIAssignmentANN\AIAssignmentANN\bin\Debug\netcoreapp2.1\AIAssignmentANN.pdb
+\\peterborough.ac.uk\mfi\dfsACUserdata2\StudentH\UCP\Ramonas_P110096764\Desktop\AIAssignment\AIAssignmentANN\AIAssignmentANN\obj\Debug\netcoreapp2.1\AIAssignmentANN.csprojAssemblyReference.cache
+\\peterborough.ac.uk\mfi\dfsACUserdata2\StudentH\UCP\Ramonas_P110096764\Desktop\AIAssignment\AIAssignmentANN\AIAssignmentANN\obj\Debug\netcoreapp2.1\AIAssignmentANN.csproj.CoreCompileInputs.cache
+\\peterborough.ac.uk\mfi\dfsACUserdata2\StudentH\UCP\Ramonas_P110096764\Desktop\AIAssignment\AIAssignmentANN\AIAssignmentANN\obj\Debug\netcoreapp2.1\AIAssignmentANN.AssemblyInfoInputs.cache
+\\peterborough.ac.uk\mfi\dfsACUserdata2\StudentH\UCP\Ramonas_P110096764\Desktop\AIAssignment\AIAssignmentANN\AIAssignmentANN\obj\Debug\netcoreapp2.1\AIAssignmentANN.AssemblyInfo.cs
+\\peterborough.ac.uk\mfi\dfsACUserdata2\StudentH\UCP\Ramonas_P110096764\Desktop\AIAssignment\AIAssignmentANN\AIAssignmentANN\obj\Debug\netcoreapp2.1\AIAssignmentANN.dll
+\\peterborough.ac.uk\mfi\dfsACUserdata2\StudentH\UCP\Ramonas_P110096764\Desktop\AIAssignment\AIAssignmentANN\AIAssignmentANN\obj\Debug\netcoreapp2.1\AIAssignmentANN.pdb
